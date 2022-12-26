@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ingredients {
+    font-weight: 700;
+    font-style: italic;
+}
